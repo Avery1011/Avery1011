@@ -30,7 +30,7 @@ I'm a 19-year-old Computer Science student with a passion for coding, exploring 
 ---
 
 ## 🌱 Currently Learning
-- C++ for expanding low-level programming skills
+- C++ 
 - Advanced algorithms and data structures
 
 ## 📫 Contact
