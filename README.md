@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Romaine Avery Falconer!
 
-I'm a 19-year-old Computer Science student with a passion for coding, exploring new technologies, and building impactful projects. As a full-time student, I balance my academic life with hobbies like gaming, traveling, and creating new tech projects. I’m also working on expanding my skills, currently diving into C++ to strengthen my understanding of low-level programming and algorithms.
+I'm a 20-year-old Computer Science student with a passion for coding, exploring new technologies, and building impactful projects. As a full-time student, I balance my academic life with hobbies like gaming, traveling, and creating new tech projects. I’m also working on expanding my skills, currently diving into C++ to strengthen my understanding of low-level programming and algorithms.
 
 ---
 
