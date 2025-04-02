@@ -37,7 +37,7 @@ I'm a 20-year-old Computer Science student with a passion for coding, exploring 
 Feel free to reach out via email at **[contact@romainefalconer.com](mailto:contact@romainefalconer.com)**. 
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/romaine-falconer-5b340926b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avery1011)
 
 Explore my projects, and let’s connect if you’re interested in collaborating or chatting about tech!
