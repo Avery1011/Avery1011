@@ -42,5 +42,3 @@ Feel free to reach out via email at **[contact@romainefalconer.com](mailto:conta
 
 Explore my projects, and let’s connect if you’re interested in collaborating or chatting about tech!
 
-
-Explore my projects, and let’s connect if you’re interested in collaborating or chatting about tech!
